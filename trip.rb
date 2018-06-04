@@ -24,3 +24,4 @@ puts "You will spend #{nights} night[s]"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
+puts "You will be traveling to #{stay}. You will eat #{eats} food. You will be spending #{nights} night[s]."
